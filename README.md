@@ -1,12 +1,12 @@
 # Finding the most dominant color from the image
-Using K-Means Clustering found the 3 most dominant colors and Reconstructed the Image using these colors
+Using K-Means Clustering finding the most dominant colors of an image
 ### Original Image
 <p align='center'>
-  <img src="git.jpg" width="500"/>
+  <img src="input.png" width="500"/>
 </p>
 
-### Reconstructed Image
+### Dominant Colors
 
 <p align='center'>
-  <img src="re.jpg" width="500"/>
+  <img src="colors.jpeg" width="500"/>
 </p>
